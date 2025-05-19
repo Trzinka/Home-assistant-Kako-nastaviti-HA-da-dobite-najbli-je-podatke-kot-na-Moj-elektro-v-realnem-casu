@@ -25,8 +25,8 @@ Taka "politika" nam ravno ne dovoljuje biti povsem kreativen a bom vseeno poisku
 
 Iz zgornjega je razvidno, da povprečje določeno s strani elektra odstopa od dejanskega, ki bi ga lahko upoštevali kot 15 minutno povprečje. 
 Poglejte si razliko med prejeto delovno močjo in dogovorjenomočjo!
-Tudi zakaj elektro za branje števca uporablja nezanesljivo tehnologijo branja števca mi nihče ni znal pojasniti, tako prihaja do izpada podatkov, ki jih števec po ponovni vzpostavitvi ne zna posalati (moja ocena je da đtevec ne hrani dovolj dolgo preteklih podatkov)
-To je moje osebno mnenje, če bi hoteli zaračunavati pošteno po porabi. 
+Tudi zakaj elektro za branje števca uporablja nezanesljivo tehnologijo branja števca mi nihče ni znal pojasniti, tako prihaja do izpada podatkov, ki jih števec po ponovni vzpostavitvi ne zna posalati (moja ocena je, da števec ne hrani dovolj dolgo preteklih podatkov)
+Torej ima elektro dejanske podatke porabe in če bi hoteli zaračunavati pošteno po porabi bi to lahko storili. To je moje osebno mnenje, . 
 
 Kako pa so opravili meritve za izračun dogovorjene moči?
 ![Meritve za izračun dogovorjene moči](https://github.com/user-attachments/assets/42b03b63-1a09-4ef4-9d03-7386b534ef89)
