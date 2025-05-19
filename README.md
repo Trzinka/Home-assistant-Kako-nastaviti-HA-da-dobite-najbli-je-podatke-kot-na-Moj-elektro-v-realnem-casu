@@ -28,12 +28,20 @@ Poglejte si razliko med prejeto delovno močjo in dogovorjenomočjo!
 Tudi zakaj elektro za branje števca uporablja nezanesljivo tehnologijo branja števca mi nihče ni znal pojasniti, tako prihaja do izpada podatkov, ki jih števec po ponovni vzpostavitvi ne zna posalati (moja ocena je, da števec ne hrani dovolj dolgo preteklih podatkov)
 Torej ima elektro dejanske podatke porabe in če bi hoteli zaračunavati pošteno po porabi bi to lahko storili. To je moje osebno mnenje, . 
 
+___
 Kako pa so opravili meritve za izračun dogovorjene moči?
 ![Meritve za izračun dogovorjene moči](https://github.com/user-attachments/assets/42b03b63-1a09-4ef4-9d03-7386b534ef89)
 
 Kot je iz zgornje slike razvidno so vzeli tudi najvišje podatke porabe moči iz leta 2023 kot relevantne!?
-Ne pozabimo, da te opravljene meritve oziroma dogovorjena moč veljajo celo leto, ki nam ki se ogrevamo (IR paneli) s pomočjo elektrike ne omogoča kaj dosti prilagajanja razen, če to prilagoditev sami zahtevamo!
+Ne pozabimo, da te opravljene meritve oziroma DOGOVORJENA MOČ VELJAJO ZA CELO LETO, ki nam ki se ogrevamo (IR paneli) s pomočjo elektrike ne omogoča kaj dosti prilagajanja razen, če to prilagoditev sami zahtevamo!
 
+![Faktor obračuna prekoračitve dogovorjene moči](https://github.com/user-attachments/assets/9b368e62-e148-4b7c-9cff-54419446c939)
+Zgodilo se nam je že, da smo presegli dogovorjeno moč in ker je določeba s strani Elektra smo dobili samo pisno v obliki informacije.
+
+Iz zgornje slike se da razbrati koliko moči je bilo preseženo in da je cena za obračun enaka ceni za normalno porabo s tem, da je povečana (pomnožite) za fakto 0,9, da dobite končni znesek!
+Čisto moj razmislek mislim, da če bi sam zmanjšal dogovorjeno moč, ki bi se odražala v vsakomesečnem znesku in če bi slučajno presegel iz moje strani dogovorjeno moč, kazen nebi bila tako huda!?
+
+___
 Poglejmo si dva primera (moj dobavitelj je `Elektro energija, podjetje za prodajo elektrike in drugih energentov, svetovanje in storitve, d.o.o.`):
 
 Mesec november 2024 (Omilitev draginje pri oskrbi z elektriko)
@@ -595,5 +603,5 @@ input_number:
 
 ***
 
-### Slika prikazuje razliko v izgledu porabe med prvimi 15 minutnimi entitetami in kasneje dodelanimi entitetami:
+### Slika prikazuje razliko v prikazu/podatkih porabe med prvimi 15 minutnimi entitetami in kasneje dodelanimi entitetami, ki so bližje prikazu/podatkom Mojega elektra:
 ![Poraba od 14 do 20 04 2025](https://github.com/user-attachments/assets/f8a83c1c-ffaf-4ffa-8a8d-c225ce593639)
