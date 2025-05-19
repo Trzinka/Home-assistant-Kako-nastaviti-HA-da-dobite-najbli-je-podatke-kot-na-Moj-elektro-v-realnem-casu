@@ -19,7 +19,14 @@ Taka "politika" nam ravno ne dovoljuje biti povsem kreativen a bom vseeno poisku
 🟥 Primer dejanske dosežene moči za mesec marec.
 ![202503-Moj elektro](https://github.com/user-attachments/assets/94b535d9-05b6-4e3c-936e-6e9eb7263825)
 
-Iz zgornjega je razvidno, da povprečje določeno s strani elektra odstopa od dejanskega, ki bi ga lahko upoštevali kot 15 minutno povprečje. To je moje osebno mnenje če bi hoteli zaračunavati pošteno po porabi.
+🟥 Primer dejanske dosežene moči za mesec april.
+![Dosežene moči-04](https://github.com/user-attachments/assets/1aa5b09b-47e0-4725-b9cd-132c01444ae6)
+
+
+Iz zgornjega je razvidno, da povprečje določeno s strani elektra odstopa od dejanskega, ki bi ga lahko upoštevali kot 15 minutno povprečje. 
+Poglejte si razliko med prejeto delovno močjo in dogovorjenomočjo!
+Tudi zakaj elektro za branje števca uporablja nezanesljivo tehnologijo branja števca mi nihče ni znal pojasniti, tako prihaja do izpada podatkov, ki jih števec po ponovni vzpostavitvi ne zna posalati (moja ocena je da đtevec ne hrani dovolj dolgo preteklih podatkov)
+To je moje osebno mnenje, če bi hoteli zaračunavati pošteno po porabi. 
 
 Kako pa so opravili meritve za izračun dogovorjene moči?
 ![Meritve za izračun dogovorjene moči](https://github.com/user-attachments/assets/42b03b63-1a09-4ef4-9d03-7386b534ef89)
@@ -35,6 +42,10 @@ Mesec november 2024 (Omilitev draginje pri oskrbi z elektriko)
 Mesec marec 2025
 ![202503_Stran_2](https://github.com/user-attachments/assets/a36743f0-ca2f-4ead-b552-fcfa4c2a3343)
 
+Mesec april 2025
+![Izračun-04](https://github.com/user-attachments/assets/6549f273-6f55-4020-ac59-8fa1187381b0)
+Problem ko elektro ne prejme podatke lahko zakonsko uporabijo povprečje za izračun.
+___
 # 🎯 Pojasniti vam moram, da živimo v dvo družinski hiši kjer imamo trenutno 1 odjemno merilno mesto!
 
 ***
