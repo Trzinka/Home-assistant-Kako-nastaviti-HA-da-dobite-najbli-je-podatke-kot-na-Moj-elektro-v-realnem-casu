@@ -3,7 +3,7 @@ Ta dela so prosto dostopna za vsako uporabo brez omejitev.
 Avtor ne zahteva atribucije, vendar je hvaležen za povratne informacije.
 ___
 
-## Za nas je takšna maksimalno dovoljene dogovorjene moči (kW)!
+## Za našo hišo je takšna maksimalno dovoljene dogovorjene moči (kW)!
 
 ![Sprememba dogovorjene moči](https://github.com/user-attachments/assets/f3fd7e9b-f6cb-4a89-8c5b-d751f2365208)
 
