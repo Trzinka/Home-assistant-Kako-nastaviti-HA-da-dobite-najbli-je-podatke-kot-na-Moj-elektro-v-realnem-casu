@@ -56,6 +56,7 @@ In v Home assistant,kar ni popolno zato bom razložil v nadaljevanju kao se najb
 https://github.com/Trzinka/Home_Assistant-Obracun_porabe_elektricne_energije_po_novem-2025 in 
 
 https://github.com/Trzinka/Home_Assistant-Obracun_porabe_elektricne_energije_po_novem-2025_Prikaz_porabe_za_prejsnji_mesec
+
 potem poznate strukturo mojega korenskega imenika.
 
 ✍️ Torej v mapi `share` in v njeni podmapi `sensors` naredite datoteko `15_minut.yaml` in v njo dodajte:
