@@ -47,17 +47,15 @@ Mesec april 2025
 Problem ko elektro ne prejme podatke lahko zakonsko uporabijo povprečje za izračun.
 ___
 # 🎯 Pojasniti vam moram, da živimo v dvo družinski hiši kjer imamo trenutno 1 odjemno merilno mesto!
-
-***
 ___
 
 ## Nekaj statistike in primerjave
 
-Na spletni strani mojega elektra lahko po 1 dneh vidim:
+Na spletni strani mojega elektra lahko po 1 dneh vidim, če vse deluje kot je za pričakovati:
 ![20250414-Povprečje 15 minut-ELEKTRO](https://github.com/user-attachments/assets/c7fec68a-ef59-4c2a-b494-2ce900f5d769)
 
 
-In v Home assistant,kar ni popolno zato bom razložil v nadaljevanju kao se najbolj približati:
+In v Home assistant, kar ni popolno zato bom razložil v nadaljevanju kao se najbolj približati:
 ![20250414-Povprečje 15 minut](https://github.com/user-attachments/assets/4e08c265-52c7-46f0-9800-cbc4963675a7)
 
 ## Da v Home assistant sproti vidim nekaj približno podobnega sem moral narediti nekaj novih entitet:
