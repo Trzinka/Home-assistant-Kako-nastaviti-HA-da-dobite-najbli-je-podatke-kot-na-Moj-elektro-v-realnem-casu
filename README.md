@@ -585,5 +585,5 @@ input_number:
 
 ***
 
-Takšen je izgled porabe:
+### Slika prikazuje razliko v izgledu porabe med prvimi 15 minutnimi entitetami in kasneje dodelanimi entitetami:
 ![Poraba od 14 do 20 04 2025](https://github.com/user-attachments/assets/f8a83c1c-ffaf-4ffa-8a8d-c225ce593639)
