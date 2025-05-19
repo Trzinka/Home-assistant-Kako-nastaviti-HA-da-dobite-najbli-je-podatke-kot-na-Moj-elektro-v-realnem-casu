@@ -46,13 +46,15 @@ Na spletni strani mojega elektra lahko po 1 dneh vidim:
 ![20250414-Povprečje 15 minut-ELEKTRO](https://github.com/user-attachments/assets/c7fec68a-ef59-4c2a-b494-2ce900f5d769)
 
 
-V Home assistant:
+In v Home assistant,kar ni popolno zato bom razložil v nadaljevanju kao se najbolj približati:
 ![20250414-Povprečje 15 minut](https://github.com/user-attachments/assets/4e08c265-52c7-46f0-9800-cbc4963675a7)
 
 ## Da v Home assistant sproti vidim nekaj približno podobnega sem moral narediti nekaj novih entitet:
 
 Če ste do sedaj že spremljali moji objavi:
+
 https://github.com/Trzinka/Home_Assistant-Obracun_porabe_elektricne_energije_po_novem-2025 in 
+
 https://github.com/Trzinka/Home_Assistant-Obracun_porabe_elektricne_energije_po_novem-2025_Prikaz_porabe_za_prejsnji_mesec
 potem poznate strukturo mojega korenskega imenika.
 
